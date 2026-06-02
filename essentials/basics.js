@@ -1,3 +1,2 @@
-var userName;
 //
 userName = "Ujeb";
